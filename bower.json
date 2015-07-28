@@ -1,0 +1,18 @@
+{
+  "name": "react-demo",
+  "version": "0.0.0",
+  "authors": [
+    "李航 <lh100756@alibaba-inc.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
